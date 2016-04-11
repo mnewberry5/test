@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Marshall/Documents/bluecove-2.1.0.jar"/>
+	<classpathentry kind="lib" path="Z:/NLAD/Engineering/FreeScan/FreeScan 1-5-2016/FreescanComm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marshall/Desktop/rxtx-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Marshall/Desktop/rxtx-2.1-7-bins-r2/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="Z:/NLAD/Engineering/FreeScan/PC SerialComm 7-1-2015/SerialComm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
